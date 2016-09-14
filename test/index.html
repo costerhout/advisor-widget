@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<!--
+
+UAS Custom Page Template
+
+Use this template on custom pages primarily used for marketing campaigns and special events.
+
+Dependencies:
+- Bootstrap 2.3.2
+- jQuery 1.11.2
+- Font Awesome 4.3.0
+- Google Fonts
+
+Author: ctosterhout
+
+*** Change log ***
+
+4/22/2015 - created
+
+-->
+
+<!--
+****************************************************************************************
+Begin top HTML boilerplate
+****************************************************************************************
+-->
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="//maxcdn.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet" media="screen" />
+    <!-- Define the CSS files to include below this line -->
+    <link rel="stylesheet" href="dist/css/main.css" />
+    <link rel="stylesheet" href="advisor.css" />
+</head>
+
+<body>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/2.3.2/js/bootstrap.min.js"></script>
+    <div id="main" role="main">
+        <!--
+****************************************************************************************
+End top HTML boilerplate.  Begin code to be migrated into the CMS page
+****************************************************************************************
+-->
+        <div id="content">
+            <h1>Way Freakin Awesome Web Page</h1>
+        </div>
+
+        <!--
+****************************************************************************************
+Begin foot HTML boilerplate
+****************************************************************************************
+-->
+    <!-- Bring in the generated content -->
+    <!--#include virtual="advisor-form.html" -->
+    <!--#include virtual="advisor-list.html" -->
+
+    </div>
+
+    <!-- Load required BERT stuff -->
+    <script src="src/js/vendor/require.js"></script>
+    <script src="src/js/config-dev.js"></script>
+    <script src="src/js/bs2.js"></script>
+
+    <!-- Load advisor widget code -->
+    <script src="advisor.js"></script>
+
+    <!-- Live reload upon page changes-->
+    <script src="//localhost:8006/livereload.js"></script>
+</body>
+
+</html>
+<!--
+****************************************************************************************
+End foot HTML boilerplate
+****************************************************************************************
+-->

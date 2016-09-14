@@ -1,0 +1,3112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system-data-structure>
+    <blocks>
+        <id>link1</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Allen</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Puckett</Last-Name>
+                        <Degree />
+                        <title>Assistant Professor, Welding Technology</title>
+                        <Phone>747-7711</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>adpuckett@alaska.edu</Email>
+                        <building></building>
+                        <Office></Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Sitka</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education: Welding</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/dir/images/al_pucket.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/dir/images/al_pucket.jpg</link>
+                            <site>UAS</site>
+                            <name>al_pucket.jpg</name>
+                            <display-name>Al Puckett</display-name>
+                        </image>
+                        <Education>
+                            <p>AWS Certification in Welding Education</p>
+                            <p>AWS Certification in Welding Inspection</p>
+                        </Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/adpuckett</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/adpuckett</link>
+            <site>UAS</site>
+            <name>adpuckett</name>
+            <display-name>Allen Puckett</display-name>
+            <title>Allen Puckett</title>
+            <description>Allen Puckett</description>
+        </page>
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Pete</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Traxler</Last-Name>
+                        <Degree />
+                        <title>Executive Dean, Career Education; Assistant Professor, Construction Technology</title>
+                        <Phone>796-6139</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>pbtraxler@uas.alaska.edu</Email>
+                        <building>Juneau Campus: Technical Education Center</building>
+                        <Office>TEC 222</Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/career_ed/images/staff/traxler</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>Juneau</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/career_ed/images/staff/traxler</link>
+                            <site>UAS</site>
+                            <name>traxler</name>
+                            <display-name>Pete Traxler</display-name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/pbtraxler</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>Yes</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>Juneau</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/pbtraxler</link>
+            <site>UAS</site>
+            <name>pbtraxler</name>
+            <display-name>Pete Traxler</display-name>
+            <title>Executive Dean, Career Education; Assistant Professor, Construction Technology</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link2</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Amelia</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Budd</Last-Name>
+                        <Degree />
+                        <title>Academic Advisor</title>
+                        <Phone>747-7705</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>aemmensb@alaska.edu</Email>
+                        <building></building>
+                        <Office></Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Staff</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Sitka</value>
+                        </Campus>
+                        <Academic-Schools />
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services>
+                            <value>Student Success Center</value>
+                        </Student-Services>
+                        <image type="file">
+                            <content />
+                            <path>/dir/images/abudd.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Thumbnail</name>
+                            </dynamic-metadata>
+                            <link>site://UAS/dir/images/abudd.jpg</link>
+                            <site>UAS</site>
+                            <name>abudd.jpg</name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/aemmensb</path>
+            <dynamic-metadata>
+                <name>Include in Navigation</name>
+                <value>Yes</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>All</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>User</name>
+                <value>All</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Transparent</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>ShelfLife</name>
+                <value>36</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Thumbnail</name>
+            </dynamic-metadata>
+            <link>site://UAS/dir/aemmensb</link>
+            <site>UAS</site>
+            <name>aemmensb</name>
+            <display-name>Amelia Budd</display-name>
+            <title>Amelia Budd</title>
+            <description>Amelia Emmens-Budd</description>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link3</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Cheryl</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Stromme</Last-Name>
+                        <Degree />
+                        <title>Academic Advisor</title>
+                        <Phone>747-7781</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>cstromme@alaska.edu</Email>
+                        <building></building>
+                        <Office></Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Staff</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Sitka</value>
+                        </Campus>
+                        <Academic-Schools />
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services>
+                            <value>Student Success Center</value>
+                        </Student-Services>
+                        <image type="file">
+                            <content />
+                            <path>/sitka/images/personnel/cherylStromme.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>36</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/sitka/images/personnel/cherylStromme.jpg</link>
+                            <site>UAS</site>
+                            <name>cherylStromme.jpg</name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc>
+                            <span>Advising specialties: Health Information Management, Pre-Nursing, Health Science, and Medical Assisting degrees</span>
+                        </Misc>
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/cstromme</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>Sitka</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/cstromme</link>
+            <site>UAS</site>
+            <name>cstromme</name>
+            <display-name>Cheryl_Stromme</display-name>
+            <title>Cheryl_Stromme</title>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link4</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Christine</First-Name>
+                        <Middle-Name>J.</Middle-Name>
+                        <Last-Name>Urata</Last-Name>
+                        <Degree>
+                            <value>M.S.N</value>
+                        </Degree>
+                        <title>Associate Professor and Program Head, Health Sciences</title>
+                        <Phone>796-6125</Phone>
+                        <Phone2></Phone2>
+                        <Fax>796-6577</Fax>
+                        <Email>chris.urata@uas.alaska.edu</Email>
+                        <building>Juneau Campus: Bill Ray Center</building>
+                        <Office>Rm. 120C</Office>
+                        <URL>http://www.uas.alaska.edu/career_ed/healthscience</URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education: Health Sciences</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/career_ed/images/staff/curata.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/career_ed/images/staff/curata.jpg</link>
+                            <site>UAS</site>
+                            <name>curata.jpg</name>
+                        </image>
+                        <Education>
+                            <ul>
+                                <li>B.S.N. Pacific Lutheran University</li>
+                                <li>M.S.N. University of Washington</li>
+                            </ul>
+                        </Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/cjurata</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>Yes</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>UAS</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/cjurata</link>
+            <site>UAS</site>
+            <name>cjurata</name>
+            <display-name>Chris Urata</display-name>
+            <title>Associate Professor and Program Head, Health Sciences</title>
+        </page>
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Pete</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Traxler</Last-Name>
+                        <Degree />
+                        <title>Executive Dean, Career Education; Assistant Professor, Construction Technology</title>
+                        <Phone>796-6139</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>pbtraxler@uas.alaska.edu</Email>
+                        <building>Juneau Campus: Technical Education Center</building>
+                        <Office>TEC 222</Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/career_ed/images/staff/traxler</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>Juneau</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/career_ed/images/staff/traxler</link>
+                            <site>UAS</site>
+                            <name>traxler</name>
+                            <display-name>Pete Traxler</display-name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/pbtraxler</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>Yes</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>Juneau</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/pbtraxler</link>
+            <site>UAS</site>
+            <name>pbtraxler</name>
+            <display-name>Pete Traxler</display-name>
+            <title>Executive Dean, Career Education; Assistant Professor, Construction Technology</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link5</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Kim</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Hodne</Last-Name>
+                        <Degree />
+                        <title>Maritime Coordinator</title>
+                        <Phone>228-4568</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>klhodne@alaska.edu</Email>
+                        <building></building>
+                        <Office></Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Staff</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Ketchikan</value>
+                        </Campus>
+                        <Academic-Schools />
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image>
+                            <path>/</path>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/klhodne</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/klhodne</link>
+            <site>UAS</site>
+            <name>klhodne</name>
+            <display-name>klhodne</display-name>
+            <title>UAS Personnel</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link6</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Denise</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Carl</Last-Name>
+                        <Degree />
+                        <title>Academic Advisor</title>
+                        <Phone>796-6090</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>dmcarl2@alaska.edu</Email>
+                        <building>Juneau Campus: Soboleff Bldg</building>
+                        <Office></Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Staff</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Arts and Sciences Department</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/dir/images/denisecarl.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/dir/images/denisecarl.jpg</link>
+                            <site>UAS</site>
+                            <name>denisecarl.jpg</name>
+                            <display-name>Denise Carl</display-name>
+                        </image>
+                        <Education>
+                            <p>Bachelor of Science &#8211; Hotel, Tourism, Restaurant Management, University of Wisconsin &#8211; Stout
+                                <br />
+ Master of Education &#8211; Student Development Administration, Seattle University
+                            </p>
+                        </Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/dmcarl2</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/dmcarl2</link>
+            <site>UAS</site>
+            <name>dmcarl2</name>
+            <display-name>Denise Carl</display-name>
+            <title>UAS Personnel</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link7</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Forest</First-Name>
+                        <Middle-Name>J</Middle-Name>
+                        <Last-Name>Wagner</Last-Name>
+                        <Degree>
+                            <value>B.A.</value>
+                        </Degree>
+                        <title>Assistant Professor of Outdoor Studies</title>
+                        <Phone>796-6361</Phone>
+                        <Phone2></Phone2>
+                        <Fax>907-796-6406</Fax>
+                        <Email>fjwagner@alaska.edu</Email>
+                        <building>Juneau Campus: Whitehead Bldg</building>
+                        <Office>208</Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Arts and Sciences - Humanities</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/arts_sciences/humanities/faculty/images/Forest_2011.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/arts_sciences/humanities/faculty/images/Forest_2011.jpg</link>
+                            <site>UAS</site>
+                            <name>Forest_2011.jpg</name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught>
+                            <p>Outdoor Leadership Sequence (ODS 243, 244, &amp; 245); ODS 116, Intro to Rock Climbing; ODS 117, Intro to Ice Climbing; ODS 205, Backcountry Navigation &amp; Travel; ODS 221, Glacier Travel and Crevasse Rescue; ODS 222, Mountaineering</p>
+                        </Courses-Taught>
+                        <Biography>
+                            <p>Forest has been coordinating and teaching in the outdoor studies program since 2006. &#160;Forest works in the off season as a mountain guide, and is also a graduate student in northern studies at UAF. &#160;He is most interested in human narrative, northern identity, and sense of place.</p>
+                        </Biography>
+                        <Misc />
+                        <Hours>
+                            <p>TWR 12:00-2:00 p.m. (may vary due to field schedule)</p>
+                        </Hours>
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/fjwagner</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>UAS</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/fjwagner</link>
+            <site>UAS</site>
+            <name>fjwagner</name>
+            <display-name>Forest Wagner</display-name>
+            <title>UAS Personnel</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link8</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Gail</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Klein</Last-Name>
+                        <Degree>
+                            <value>B.B.A.</value>
+                        </Degree>
+                        <title>Student Services Manager, Title IX Resource Staff</title>
+                        <Phone>228-4508</Phone>
+                        <Phone2></Phone2>
+                        <Fax>225-3624</Fax>
+                        <Email>grklein@alaska.edu</Email>
+                        <building>Ketchikan Campus: Ziegler Bldg</building>
+                        <Office>Room 203D</Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Staff</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Ketchikan</value>
+                        </Campus>
+                        <Academic-Schools />
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/ketchikan/kimages/faculty_staff/klein2013.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Thumbnail</name>
+                            </dynamic-metadata>
+                            <link>site://UAS/ketchikan/kimages/faculty_staff/klein2013.jpg</link>
+                            <site>UAS</site>
+                            <name>klein2013.jpg</name>
+                            <keywords>friendly, help, college, preperation, how to pay for college, alaska, finish college</keywords>
+                        </image>
+                        <Education>B.B.A, University of Alaska Fairbanks</Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography>
+                            <p>I've loved living in Alaska since I first arrived here at the tender age of 2.&#160; I've been blessed to see much of the state having lived in Chugiak, Talkeetna, Anchorage, Fairbanks, and Ketchikan.&#160; The beauty and serenity of this special place we live (even with the large amounts of rain) is inspiring.&#160; After graduating from a little Alaskan high school (we had a graduating class of 18 students) I attended the University of Alaska Fairbanks, graduating with a BA in Business Administration in 1990.&#160; I 've had the pleasure of working with college students for over twenty years and I am inspired by the perseverance of our students as well as the power of education to help students change their lives for the better.</p>
+                        </Biography>
+                        <Misc>
+                            <p>Advising contact for transfer, nursing, social work, elementary education and business students.</p>
+                        </Misc>
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/grklein</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/grklein</link>
+            <site>UAS</site>
+            <name>grklein</name>
+            <display-name>Gail Klein</display-name>
+            <title>Gail Klein</title>
+            <keywords>Profile: Gail Klein</keywords>
+            <description>Profile: Gail Klein</description>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link9</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Jeffrey</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Lofthus</Last-Name>
+                        <Degree>
+                            <value>Ph.D.</value>
+                        </Degree>
+                        <title>Professor of Education</title>
+                        <Phone>796-6404</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>jllofthus@alaska.edu</Email>
+                        <building>Juneau Campus: Hendrickson Annex</building>
+                        <Office>107</Office>
+                        <URL>http://www.uas.alaska.edu/education/</URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>School of Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/education/images/staff/Jeff-Cuba-Paladar2.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/education/images/staff/Jeff-Cuba-Paladar2.jpg</link>
+                            <site>UAS</site>
+                            <name>Jeff-Cuba-Paladar2.jpg</name>
+                        </image>
+                        <Education>Ph.D., M.A., &amp; B.S. - University of North Dakota</Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc>
+                            <p>
+                                <strong>Program Coordinator:</strong>&#160; Elementary Education: B.A.
+                            </p>
+                        </Misc>
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/jllofthus</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/jllofthus</link>
+            <site>UAS</site>
+            <name>jllofthus</name>
+            <display-name>Jeffrey Lofthus</display-name>
+            <title>Jeffrey Lofthus</title>
+            <description>Jeffrey Lofthus</description>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link10</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Jill</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Burkert</Last-Name>
+                        <Degree>
+                            <value>Ph.D.</value>
+                        </Degree>
+                        <title>Associate Professor of Education</title>
+                        <Phone>796-6033</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>jrburkert@alaska.edu</Email>
+                        <building>Juneau Campus: Hendrickson Annex</building>
+                        <Office>101E</Office>
+                        <URL>http://www.uas.alaska.edu/education/</URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>School of Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/education/images/staff/burkert.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/education/images/staff/burkert.jpg</link>
+                            <site>UAS</site>
+                            <name>burkert.jpg</name>
+                        </image>
+                        <Education>
+                            <p>Ph.D. - University of South Florida</p>
+                            <p>M.Ed. - George Mason University</p>
+                            <p>B.S. - Mary Washington College of the University of Virginia</p>
+                        </Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc>
+                            <p>
+                                <strong>Program Coordinator</strong>: Special Education: BA (distance), MAT (distance), M.Ed. (distance), and Graduate Certificate (distance).
+                            </p>
+                        </Misc>
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/jrburkert</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/jrburkert</link>
+            <site>UAS</site>
+            <name>jrburkert</name>
+            <display-name>Jill Burkert</display-name>
+            <title>Jill Burkert</title>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link11</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Louis</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Scott</Last-Name>
+                        <Degree />
+                        <title>Arts &amp; Sciences Outreach Advisor</title>
+                        <Phone>228-4565</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>lscott28@alaska.edu</Email>
+                        <building>Ketchikan Campus: Ziegler Bldg</building>
+                        <Office>203B</Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Staff</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Ketchikan</value>
+                        </Campus>
+                        <Academic-Schools />
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services>
+                            <value>Student Services</value>
+                        </Student-Services>
+                        <image type="file">
+                            <content />
+                            <path>/ketchikan/kimages/faculty_staff/lscottjpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Thumbnail</name>
+                            </dynamic-metadata>
+                            <link>site://UAS/ketchikan/kimages/faculty_staff/lscottjpg</link>
+                            <site>UAS</site>
+                            <name>lscottjpg</name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/llscott</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/llscott</link>
+            <site>UAS</site>
+            <name>llscott</name>
+            <display-name>Louis Scott</display-name>
+            <title>UAS Personnel</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Kate</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Govaars</Last-Name>
+                        <Degree>
+                            <value>B.A.</value>
+                            <value>M.A.</value>
+                        </Degree>
+                        <title>Arts &amp; Sciences Outreach Advisor</title>
+                        <Phone>228-4561</Phone>
+                        <Phone2></Phone2>
+                        <Fax>225-3624</Fax>
+                        <Email>kgovaars@alaska.edu</Email>
+                        <building>Ketchikan Campus: Ziegler Bldg</building>
+                        <Office>Room 203C</Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Staff</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Ketchikan</value>
+                        </Campus>
+                        <Academic-Schools />
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services>
+                            <value>Student Success Center</value>
+                        </Student-Services>
+                        <image type="file">
+                            <content />
+                            <path>/ketchikan/kimages/faculty_staff/new/kate.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Thumbnail</name>
+                            </dynamic-metadata>
+                            <link>site://UAS/ketchikan/kimages/faculty_staff/new/kate.jpg</link>
+                            <site>UAS</site>
+                            <name>kate.jpg</name>
+                            <display-name>Kate Govaars</display-name>
+                            <keywords>friendly, help, college, preperation, how to pay for college, alaska, finish college</keywords>
+                        </image>
+                        <Education>
+                            <p>M.A. Professional Higher Education Administration
+                                <br />
+ University of Connecticut
+                            </p>
+                            <p>B.A. International Relations, Spanish
+                                <br />
+ Georgia Southern University
+                            </p>
+                        </Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography>
+                            <p>I love working in the collegiate environment.&#160; Throughout the past 10 years, I have worked in various aspects of student services mentoring and advising students to graduate successfully and become capable leaders in their communities.&#160; Prior to moving to Ketchikan and taking on the role of Outreach Advisor at UAS, I was working in Portland, OR at Lewis &amp; Clark College managing the collegiate outdoor recreation program.&#160; I trained student leaders to guide their peers on outdoor excursions and led many of my own from day hikes to overnight whitewater rafting trips.&#160; Prior to Lewis &amp; Clark, I served as a Resident Director at Reed College where I managed residence halls and served on an on-call crisis management team.&#160; While my career has taken me across the country, I never cease to be inspired by the students I encounter.&#160; I learn so much from each of the students we serve.&#160; The vibrancy and eagerness of the student population (both traditional and non) has made me love working in higher education.</p>
+                            <p>Outside of the work-realm, I am an avid outdoors-woman with a love of biking and kayaking and more recently stand-up paddleboarding with our dog Lola.</p>
+                        </Biography>
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/kgovaars</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/kgovaars</link>
+            <site>UAS</site>
+            <name>kgovaars</name>
+            <display-name>Kate Govaars</display-name>
+            <title>Kate Govaars</title>
+            <keywords>Profile: Gail Klein</keywords>
+            <description>Profile: Gail Klein</description>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link12</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Katy</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Jordan</Last-Name>
+                        <Degree />
+                        <title>School of Management Outreach Coordinator &amp; MPA Program Coordinator</title>
+                        <Phone>796-6477</Phone>
+                        <Phone2>1-800-478-9069</Phone2>
+                        <Fax></Fax>
+                        <Email>kcjordan@alaska.edu</Email>
+                        <building>Juneau Campus: Novatney Bldg</building>
+                        <Office>Rm 127</Office>
+                        <URL>http://www.uas.alaska.edu/som</URL>
+                        <employment-type>
+                            <value>Staff</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>School of Management</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/som/images/staff/kjordan.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/som/images/staff/kjordan.jpg</link>
+                            <site>UAS</site>
+                            <name>kjordan.jpg</name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/kcjordan</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>Yes</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>Juneau</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/kcjordan</link>
+            <site>UAS</site>
+            <name>kcjordan</name>
+            <display-name>Katy Jordan</display-name>
+            <title>Katy Jordan</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link13</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Katy</First-Name>
+                        <Middle-Name>L.</Middle-Name>
+                        <Last-Name>Spangler</Last-Name>
+                        <Degree>
+                            <value>Ph.D.</value>
+                        </Degree>
+                        <title>Professor of Education</title>
+                        <Phone>907-694-7019</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>klspangler@alaska.edu</Email>
+                        <building></building>
+                        <Office></Office>
+                        <URL>http://www.uas.alaska.edu/education/</URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>School of Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/education/images/staff/spangler.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/education/images/staff/spangler.jpg</link>
+                            <site>UAS</site>
+                            <name>spangler.jpg</name>
+                        </image>
+                        <Education>Ph. D., M. Ed., &amp; B.A.&#160;&#160; -University of Washington</Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc>
+                            <p>
+                                <strong>Program Coordinator:</strong>&#160; Elementary Education: MAT (distance), Graduate Certificate Elementary Education,&#160; K-8 Endorsement Area (distance)
+                            </p>
+                        </Misc>
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/klspangler</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/klspangler</link>
+            <site>UAS</site>
+            <name>klspangler</name>
+            <display-name>Katy  L. Spangler</display-name>
+            <title>Katy Spangler</title>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link14</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Lara </First-Name>
+                        <Middle-Name>R.</Middle-Name>
+                        <Last-Name>Davis</Last-Name>
+                        <Degree />
+                        <title>Mine Training Coordinator</title>
+                        <Phone>796-6133</Phone>
+                        <Phone2></Phone2>
+                        <Fax>796-6571</Fax>
+                        <Email>lara.davis@uas.alaska.edu</Email>
+                        <building>Juneau Campus: Technical Education Center</building>
+                        <Office></Office>
+                        <URL>http://www.uas.alaska.edu/career_ed/mining/index.html</URL>
+                        <employment-type>
+                            <value>Staff</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/dir/images/lrdavis6.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/dir/images/lrdavis6.jpg</link>
+                            <site>UAS</site>
+                            <name>lrdavis6.jpg</name>
+                            <display-name>Lara Murphey-Waite</display-name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/lrdavis6</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/lrdavis6</link>
+            <site>UAS</site>
+            <name>lrdavis6</name>
+            <display-name>Lara Davis</display-name>
+            <title>Lara Davis</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link15</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Lee</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Graham</Last-Name>
+                        <Degree>
+                            <value>Ph.D.</value>
+                        </Degree>
+                        <title>Associate  Professor of Education</title>
+                        <Phone>796-6047</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>mlgraham4@alaska.edu</Email>
+                        <building>Juneau Campus: Hendrickson Annex</building>
+                        <Office></Office>
+                        <URL>http://www.uas.alaska.edu/education</URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>School of Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/education/images/staff/lee-gram2.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/education/images/staff/lee-gram2.jpg</link>
+                            <site>UAS</site>
+                            <name>lee-gram2.jpg</name>
+                        </image>
+                        <Education>
+                            <p>Ph.D.,&#160; M.S. &amp; Ed.S. - Mississippi State University</p>
+                            <p>B.S. - Mississippi University for Women</p>
+                        </Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/mlgraham4</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>Yes</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>Juneau</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/mlgraham4</link>
+            <site>UAS</site>
+            <name>mlgraham4</name>
+            <display-name>Lee Graham, Ph.D.</display-name>
+            <title>UAS Personnel</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link16</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Lisa</First-Name>
+                        <Middle-Name>K</Middle-Name>
+                        <Last-Name>Richardson</Last-Name>
+                        <Degree>
+                            <value>Ph.D.</value>
+                        </Degree>
+                        <title>Assistant Professor</title>
+                        <Phone>796-6435</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>lrichardson3@alaska.edu</Email>
+                        <building>Juneau Campus: Hendrickson Annex</building>
+                        <Office>101C</Office>
+                        <URL>http://www.uas.alaska.edu/education/</URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>School of Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/education/images/staff/richardson1.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/education/images/staff/richardson1.jpg</link>
+                            <site>UAS</site>
+                            <name>richardson1.jpg</name>
+                        </image>
+                        <Education>
+                            <p>Ph.D. - University of Arizona</p>
+                            <p>M.A. - Middlebury College</p>
+                            <p>B.A. -&#160; Montana State University</p>
+                        </Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography>Lisa Richardson, Assistant Professor in the School of Education, moved to Juneau this past summer from Oakland, CA, where she was working as a Research Associate with the Strategic Literacy Initiative at WestEd Labs.&#160; Lisa received her doctorate in Language, Reading, and Culture from the University of Arizona, with a minor in Rhetoric and Composition.&#160; Her areas of research include disciplinary literacies, particularly the acquisition of academic language and literacy for students who are learning English as an additional language.&#160; Her work with immigrant and refugee students in Tucson, AZ, as well as her work with secondary students on a Navajo reservation in NM, inform both her research and teaching.&#160; Lisa is currently teaching graduate level courses in literacy for teachers in the Master's of Reading/Reading Specialist program.</Biography>
+                        <Misc>
+                            <strong>Program Coordinator</strong>: M.Ed. Reading Specialist and Reading Specialist Graduate Certificate
+                        </Misc>
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/lrichardson3</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/lrichardson3</link>
+            <site>UAS</site>
+            <name>lrichardson3</name>
+            <display-name>Lisa K. Richardson</display-name>
+            <title>UAS Personnel</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link17</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Robin</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Gilcrist</Last-Name>
+                        <Degree />
+                        <title>Assistant Professor and Program Head, Construction Technology</title>
+                        <Phone>796-6141</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>robin.gilcrist@uas.alaska.edu</Email>
+                        <building>Juneau Campus: Technical Education Center</building>
+                        <Office>TEC 223</Office>
+                        <URL>http://www.uas.alaska.edu/ct/</URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education: Construction</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/career_ed/images/Staff09/rgilcrist09.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/career_ed/images/Staff09/rgilcrist09.jpg</link>
+                            <site>UAS</site>
+                            <name>rgilcrist09.jpg</name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography>
+                            <p>Ms. Gilcrist was born and raised in Sacramento, California where she received an Associates of Arts in drafting Technology. Robin moved to Hawaii in the early eighties and completed a Bachelors of Arts degree from the University of Hawaii before leaving for Alaska. Ms. Gilcrist has worked as a drafter and designer since 1980 in California, Hawaii and Alaska, working for large architectural firms as well as small construction businesses. Since moving to Juneau in the fall of 1993 she has been working full-time designing custom homes, remodels and additions. Ms. Gilcrist owns her own residential design business, Interline Design. She also is actively involved in creating affordable housing through volunteer work with Housing First and Habitat for Humanity.</p>
+                        </Biography>
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/regilcrist</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>Yes</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>Juneau</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/regilcrist</link>
+            <site>UAS</site>
+            <name>regilcrist</name>
+            <display-name>Robin Gilcrist</display-name>
+            <title>Assistant Professor and Program Head, Construction Technology</title>
+        </page>
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Pete</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Traxler</Last-Name>
+                        <Degree />
+                        <title>Executive Dean, Career Education; Assistant Professor, Construction Technology</title>
+                        <Phone>796-6139</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>pbtraxler@uas.alaska.edu</Email>
+                        <building>Juneau Campus: Technical Education Center</building>
+                        <Office>TEC 222</Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/career_ed/images/staff/traxler</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>Juneau</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/career_ed/images/staff/traxler</link>
+                            <site>UAS</site>
+                            <name>traxler</name>
+                            <display-name>Pete Traxler</display-name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/pbtraxler</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>Yes</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>Juneau</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/pbtraxler</link>
+            <site>UAS</site>
+            <name>pbtraxler</name>
+            <display-name>Pete Traxler</display-name>
+            <title>Executive Dean, Career Education; Assistant Professor, Construction Technology</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link18</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <dept-address>
+                        <department>School of Management</department>
+                        <website>http://www.uas.alaska.edu/som/index.html</website>
+                        <staffsite>http://www.uas.alaska.edu/som/faculty.html</staffsite>
+                        <emails>
+                            <email>som@uas.alaska.edu</email>
+                            <email-label></email-label>
+                        </emails>
+                        <phone>
+                            <phone-number>796-6402</phone-number>
+                            <phone-label>Information</phone-label>
+                        </phone>
+                        <phone>
+                            <phone-number>800 478-9069</phone-number>
+                            <phone-label>Toll Free</phone-label>
+                        </phone>
+                        <fax>
+                            <fax-number>796-6549</fax-number>
+                            <fax-label>Fax</fax-label>
+                        </fax>
+                        <fax>
+                            <fax-number>877-465-6549</fax-number>
+                            <fax-label>Toll Free Fax</fax-label>
+                        </fax>
+                        <building>Juneau Campus: Novatney Bldg</building>
+                        <office></office>
+                        <mailstop>NOV 1</mailstop>
+                        <street>11066 Auke Lake Way</street>
+                        <city>Juneau</city>
+                        <state>AK</state>
+                        <zip>99801</zip>
+                        <hours />
+                        <ablock>
+                            <path>/</path>
+                        </ablock>
+                        <soc>
+                            <soc-type>Facebook</soc-type>
+                            <soc-url>https://www.facebook.com/UASSOM</soc-url>
+                        </soc>
+                        <soc>
+                            <soc-type>Twitter</soc-type>
+                            <soc-url>http://twitter.com/uas_som</soc-url>
+                        </soc>
+                    </dept-address>
+                </system-data-structure>
+            </content>
+            <path>/dir/addresses/academic/som/school_mangt</path>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>Juneau</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/addresses/academic/som/school_mangt</link>
+            <site>UAS</site>
+            <name>school_mangt</name>
+            <display-name>School of Management</display-name>
+            <title>School of Management</title>
+            <keywords>web publishing,web site content management software,web content management system,web cms,xml content management tool,knowledge management system software,internet intranet extranet portal software,elearning content management</keywords>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link19</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Scott</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Christian</Last-Name>
+                        <Degree />
+                        <title>Secondary MAT Program Administrator </title>
+                        <Phone>796-6563</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>srchristian@alaska.edu</Email>
+                        <building>Juneau Campus: Hendrickson Annex</building>
+                        <Office>HA 108</Office>
+                        <URL>http://www.uas.alaska.edu/education/programs/mat-secondary.html</URL>
+                        <employment-type>
+                            <value>Staff</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>School of Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/education/images/staff/scott_photo2.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/education/images/staff/scott_photo2.jpg</link>
+                            <site>UAS</site>
+                            <name>scott_photo2.jpg</name>
+                            <display-name>Scott Christian</display-name>
+                            <title>Secondary Education Program Coordinator</title>
+                            <keywords>Secondary Education, Middle School </keywords>
+                        </image>
+                        <Education>
+                            <p>M.A. English - Middlebury College, Bread Loaf School of English&#160;</p>
+                            <p>B.A. English and Secondary Education - University of Montana</p>
+                        </Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography>
+                            <p>Scott Christian was a classroom teacher in rural Alaska for twelve years before moving to Juneau in 1996.&#160; At that time he was a research associate for the Annenberg Rural Challenge as part of the Harvard Graduate School of Education documentation effort.&#160; He also taught and supervised teachers for the UAS Secondary Master of Arts in Teaching program.&#160; His teacher research book,
+                                <span>Exchanging Lives: Middle School Writers Online</span> was published by NCTE in 1997.&#160; In 1998 he became the Director of the Professional Education Center at UAS where he wrote and administered the first PITAAS (Preparing Indigenous Teachers and Administrators for Alaska Schools) and ARCTIC (Alaska Reform in the Classroom through Technology Integration and Collaboration) grants.&#160; He also worked closely with Middlebury College and UAS administration and faculty to bring the Bread Loaf School of English to the Juneau Campus.&#160; The Professional Education Center also worked collaboratively with statewide UA faculty, school districts and the Dept. of Education and Early Development to build the Education Technology certificate and Master's degree programs, as well as the Reading Endorsement program.&#160; After leaving PEC, Scott served as the Director of the Alaska Distance Education Consortium, and the Director of the Assessment and Western Governor's University.&#160; He returns to UAS as the Program Administrator for the Secondary Master of Arts in Teaching Program.&#160; He arrives in Juneau with his wife Phuong, who works as an investment analyst for Enterprise Community Partners and their daughter Elsie who attends the Juneau Community Charter School.
+                            </p>
+                        </Biography>
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/srchristian</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/srchristian</link>
+            <site>UAS</site>
+            <name>srchristian</name>
+            <display-name>Scott Christian</display-name>
+            <title>UAS Personnel</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link20</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <dept-address>
+                        <department>Student Resource Center</department>
+                        <website></website>
+                        <staffsite></staffsite>
+                        <emails>
+                            <email>uas.info@uas.alaska.edu</email>
+                            <email-label></email-label>
+                        </emails>
+                        <phone>
+                            <phone-number>796-6000</phone-number>
+                            <phone-label>Student Services</phone-label>
+                        </phone>
+                        <phone>
+                            <phone-number>796-6368</phone-number>
+                            <phone-label>Career Counseling</phone-label>
+                        </phone>
+                        <phone>
+                            <phone-number>796-6270</phone-number>
+                            <phone-label>DSS/Counseling</phone-label>
+                        </phone>
+                        <phone>
+                            <phone-number>796-6043</phone-number>
+                            <phone-label>Native and Rural Center</phone-label>
+                        </phone>
+                        <phone>
+                            <phone-number>796-6000</phone-number>
+                            <phone-label>Peer Advising</phone-label>
+                        </phone>
+                        <fax>
+                            <fax-number>907 796-6005</fax-number>
+                            <fax-label>Fax</fax-label>
+                        </fax>
+                        <building>Juneau Campus: Mourant Bldg</building>
+                        <office>1st Floor</office>
+                        <mailstop>MO 1</mailstop>
+                        <street>11066 Auke Lake Way</street>
+                        <city>Juneau</city>
+                        <state>AK</state>
+                        <zip>99801</zip>
+                        <hours />
+                        <ablock>
+                            <path>/</path>
+                        </ablock>
+                        <soc>
+                            <soc-type></soc-type>
+                            <soc-url></soc-url>
+                        </soc>
+                    </dept-address>
+                </system-data-structure>
+            </content>
+            <path>/dir/addresses/departments/src</path>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>Juneau</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/addresses/departments/src</link>
+            <site>UAS</site>
+            <name>src</name>
+            <display-name>Student Resource Center</display-name>
+            <title>Student Resource Center</title>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link21</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <dept-address>
+                        <department>School of Career Education</department>
+                        <website>http://www.uas.alaska.edu/career_ed/index.html</website>
+                        <staffsite>http://www.uas.alaska.edu/career_ed/faculty.html</staffsite>
+                        <emails>
+                            <email>career.ed@uas.alaska.edu</email>
+                            <email-label></email-label>
+                        </emails>
+                        <phone>
+                            <phone-number>907.796.6120</phone-number>
+                            <phone-label></phone-label>
+                        </phone>
+                        <fax>
+                            <fax-number>907.796.6571</fax-number>
+                            <fax-label>Fax</fax-label>
+                        </fax>
+                        <building>Juneau Campus: Technical Education Center</building>
+                        <office></office>
+                        <mailstop>TEC1</mailstop>
+                        <street>1415 Harbor Way</street>
+                        <city>Juneau</city>
+                        <state>Alaska</state>
+                        <zip>99801</zip>
+                        <hours />
+                        <ablock>
+                            <path>/</path>
+                        </ablock>
+                        <soc>
+                            <soc-type />
+                            <soc-url />
+                        </soc>
+                    </dept-address>
+                </system-data-structure>
+            </content>
+            <path>/dir/addresses/academic/career_ed/career-education</path>
+            <link>site://UAS/dir/addresses/academic/career_ed/career-education</link>
+            <site>UAS</site>
+            <name>career-education</name>
+            <display-name>School of Career Education</display-name>
+            <title>School of Career Education</title>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link22</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Pete</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Traxler</Last-Name>
+                        <Degree />
+                        <title>Executive Dean, Career Education; Assistant Professor, Construction Technology</title>
+                        <Phone>796-6139</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>pbtraxler@uas.alaska.edu</Email>
+                        <building>Juneau Campus: Technical Education Center</building>
+                        <Office>TEC 222</Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/career_ed/images/staff/traxler</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>Juneau</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/career_ed/images/staff/traxler</link>
+                            <site>UAS</site>
+                            <name>traxler</name>
+                            <display-name>Pete Traxler</display-name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/pbtraxler</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>Yes</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>Juneau</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/pbtraxler</link>
+            <site>UAS</site>
+            <name>pbtraxler</name>
+            <display-name>Pete Traxler</display-name>
+            <title>Executive Dean, Career Education; Assistant Professor, Construction Technology</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link23</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Tom</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Dolan</Last-Name>
+                        <Degree />
+                        <title>Assistant Professor and Program Head, Power Technology</title>
+                        <Phone>796-6123</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>tbdolan@uas.alaska.edu</Email>
+                        <building>Juneau Campus: Technical Education Center</building>
+                        <Office></Office>
+                        <URL>http://www.uas.alaska.edu/career_ed/diesel</URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education: Diesel and Hydraulics</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/career_ed/images/staff/tbdolan1.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>36</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/career_ed/images/staff/tbdolan1.jpg</link>
+                            <site>UAS</site>
+                            <name>tbdolan1.jpg</name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/tbdolan</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/tbdolan</link>
+            <site>UAS</site>
+            <name>tbdolan</name>
+            <display-name>Tom Dolan</display-name>
+            <title>Tom Dolan</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Pete</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Traxler</Last-Name>
+                        <Degree />
+                        <title>Executive Dean, Career Education; Assistant Professor, Construction Technology</title>
+                        <Phone>796-6139</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>pbtraxler@uas.alaska.edu</Email>
+                        <building>Juneau Campus: Technical Education Center</building>
+                        <Office>TEC 222</Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/career_ed/images/staff/traxler</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>Juneau</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/career_ed/images/staff/traxler</link>
+                            <site>UAS</site>
+                            <name>traxler</name>
+                            <display-name>Pete Traxler</display-name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/pbtraxler</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>Yes</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>Juneau</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/pbtraxler</link>
+            <site>UAS</site>
+            <name>pbtraxler</name>
+            <display-name>Pete Traxler</display-name>
+            <title>Executive Dean, Career Education; Assistant Professor, Construction Technology</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link24</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Virgil</First-Name>
+                        <Middle-Name>G.</Middle-Name>
+                        <Last-Name>Fredenberg</Last-Name>
+                        <Degree>
+                            <value>Ed.D.</value>
+                        </Degree>
+                        <title>Professor of Education</title>
+                        <Phone>796-6082</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>vgfredenberg@alaska.edu</Email>
+                        <building>Juneau Campus: Hendrickson Annex</building>
+                        <Office>101C</Office>
+                        <URL>http://www.uas.alaska.edu/education/</URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>School of Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/education/images/staff/fredenberg.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/education/images/staff/fredenberg.jpg</link>
+                            <site>UAS</site>
+                            <name>fredenberg.jpg</name>
+                        </image>
+                        <Education>Ed. D, M.S., B.S. - Montana State University</Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc>
+                            <p>
+                                <strong>Program Coordinator:</strong> M.Ed&#160; and Graduate Certificate,&#160; Mathematics&#160; Education
+                            </p>
+                        </Misc>
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/vgfredenberg</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/vgfredenberg</link>
+            <site>UAS</site>
+            <name>vgfredenberg</name>
+            <display-name>Virgil  G. Fredenberg</display-name>
+            <title>Virgil Fredenberg</title>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link25</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Jerry</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Schoenberger</Last-Name>
+                        <Degree>
+                            <value>M.A.</value>
+                        </Degree>
+                        <title>Assistant Professor Educational Leadership</title>
+                        <Phone>796-6283</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>jschoenb@alaska.edu</Email>
+                        <building>Juneau Campus: Hendrickson Annex</building>
+                        <Office>Room 101D</Office>
+                        <URL>http://www.uas.alaska.edu/education/</URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>School of Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/education/images/staff/jschoenberger.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>36</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/education/images/staff/jschoenberger.jpg</link>
+                            <site>UAS</site>
+                            <name>jschoenberger.jpg</name>
+                            <display-name>Jerry Schoenberger</display-name>
+                            <title>Profile picture</title>
+                            <keywords>Jerry Schoenberger profile</keywords>
+                            <description>profile picture</description>
+                        </image>
+                        <Education>M.A. &amp; B.A.&#160; San Jose State University</Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/jschoenb</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/jschoenb</link>
+            <site>UAS</site>
+            <name>jschoenb</name>
+            <display-name>Jerry Schoenberger</display-name>
+            <title>Jerry Schoenberger</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link26</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Amy</First-Name>
+                        <Middle-Name>K</Middle-Name>
+                        <Last-Name>Samuel</Last-Name>
+                        <Degree>
+                            <value>CMA (AAMA)</value>
+                        </Degree>
+                        <title>Assistant Professor and Program Director, Medical Assisting</title>
+                        <Phone>747-7748</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>aksamuel@alaska.edu</Email>
+                        <building>Sitka Campus</building>
+                        <Office></Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Sitka</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education: Health Sciences</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/dir/images/aksamuel</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Thumbnail</name>
+                            </dynamic-metadata>
+                            <link>site://UAS/dir/images/aksamuel</link>
+                            <site>UAS</site>
+                            <name>aksamuel</name>
+                        </image>
+                        <Education>
+                            <p>A.S. Whatcom Community College</p>
+                            <p>B.A. University of Alaska Fairbanks</p>
+                        </Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/aksamuel</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/aksamuel</link>
+            <site>UAS</site>
+            <name>aksamuel</name>
+            <display-name>Amy Samuel</display-name>
+            <title>Amy Samuel</title>
+            <description>Allen Puckett</description>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link27</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Claire</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Fine</Last-Name>
+                        <Degree />
+                        <title>Assistant Professor of Marine Transportation and Operations</title>
+                        <Phone>228-4575</Phone>
+                        <Phone2></Phone2>
+                        <Fax>225-3895</Fax>
+                        <Email>cjfine@alaska.edu</Email>
+                        <building>Ketchikan Campus: Ketchikan Regional Maritime and Career Center</building>
+                        <Office>Robertson 106</Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Ketchikan</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education: Marine Transportation</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/ketchikan/kimages/faculty_staff/claire_fine.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Thumbnail</name>
+                            </dynamic-metadata>
+                            <link>site://UAS/ketchikan/kimages/faculty_staff/claire_fine.jpg</link>
+                            <site>UAS</site>
+                            <name>claire_fine.jpg</name>
+                        </image>
+                        <Education>B.S. State University of New York</Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/cjfine</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/cjfine</link>
+            <site>UAS</site>
+            <name>cjfine</name>
+            <display-name>Claire Fine</display-name>
+            <title>UAS Personnel</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Pete</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Traxler</Last-Name>
+                        <Degree />
+                        <title>Executive Dean, Career Education; Assistant Professor, Construction Technology</title>
+                        <Phone>796-6139</Phone>
+                        <Phone2></Phone2>
+                        <Fax></Fax>
+                        <Email>pbtraxler@uas.alaska.edu</Email>
+                        <building>Juneau Campus: Technical Education Center</building>
+                        <Office>TEC 222</Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Faculty</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Juneau</value>
+                        </Campus>
+                        <Academic-Schools>
+                            <value>Career Education</value>
+                        </Academic-Schools>
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services />
+                        <image type="file">
+                            <content />
+                            <path>/career_ed/images/staff/traxler</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>Juneau</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <link>site://UAS/career_ed/images/staff/traxler</link>
+                            <site>UAS</site>
+                            <name>traxler</name>
+                            <display-name>Pete Traxler</display-name>
+                        </image>
+                        <Education />
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography />
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/pbtraxler</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>Yes</value>
+            </dynamic-metadata>
+            <dynamic-metadata>
+                <name>Campus</name>
+                <value>Juneau</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/pbtraxler</link>
+            <site>UAS</site>
+            <name>pbtraxler</name>
+            <display-name>Pete Traxler</display-name>
+            <title>Executive Dean, Career Education; Assistant Professor, Construction Technology</title>
+            <keywords>UAS, housing, Community Advisors, CA</keywords>
+            <start-date>Jul 15, 2009 12:00 PM</start-date>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+    <blocks>
+        <id>link28</id>
+        <label></label>
+        <content />
+        <page type="page">
+            <content>
+                <system-data-structure>
+                    <Personnel>
+                        <First-Name>Kate</First-Name>
+                        <Middle-Name></Middle-Name>
+                        <Last-Name>Govaars</Last-Name>
+                        <Degree>
+                            <value>B.A.</value>
+                            <value>M.A.</value>
+                        </Degree>
+                        <title>Arts &amp; Sciences Outreach Advisor</title>
+                        <Phone>228-4561</Phone>
+                        <Phone2></Phone2>
+                        <Fax>225-3624</Fax>
+                        <Email>kgovaars@alaska.edu</Email>
+                        <building>Ketchikan Campus: Ziegler Bldg</building>
+                        <Office>Room 203C</Office>
+                        <URL></URL>
+                        <employment-type>
+                            <value>Staff</value>
+                        </employment-type>
+                        <Campus>
+                            <value>Ketchikan</value>
+                        </Campus>
+                        <Academic-Schools />
+                        <Academic-Services />
+                        <Administrative-Services />
+                        <Student-Services>
+                            <value>Student Success Center</value>
+                        </Student-Services>
+                        <image type="file">
+                            <content />
+                            <path>/ketchikan/kimages/faculty_staff/new/kate.jpg</path>
+                            <dynamic-metadata>
+                                <name>Include in Navigation</name>
+                                <value>Yes</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Campus</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>User</name>
+                                <value>All</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Transparent</name>
+                                <value>No</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>ShelfLife</name>
+                                <value>24</value>
+                            </dynamic-metadata>
+                            <dynamic-metadata>
+                                <name>Thumbnail</name>
+                            </dynamic-metadata>
+                            <link>site://UAS/ketchikan/kimages/faculty_staff/new/kate.jpg</link>
+                            <site>UAS</site>
+                            <name>kate.jpg</name>
+                            <display-name>Kate Govaars</display-name>
+                            <keywords>friendly, help, college, preperation, how to pay for college, alaska, finish college</keywords>
+                        </image>
+                        <Education>
+                            <p>M.A. Professional Higher Education Administration
+                                <br />
+ University of Connecticut
+                            </p>
+                            <p>B.A. International Relations, Spanish
+                                <br />
+ Georgia Southern University
+                            </p>
+                        </Education>
+                        <Research />
+                        <representative-recent-publications />
+                        <professional-affiliations />
+                        <Courses-Taught />
+                        <Biography>
+                            <p>I love working in the collegiate environment.&#160; Throughout the past 10 years, I have worked in various aspects of student services mentoring and advising students to graduate successfully and become capable leaders in their communities.&#160; Prior to moving to Ketchikan and taking on the role of Outreach Advisor at UAS, I was working in Portland, OR at Lewis &amp; Clark College managing the collegiate outdoor recreation program.&#160; I trained student leaders to guide their peers on outdoor excursions and led many of my own from day hikes to overnight whitewater rafting trips.&#160; Prior to Lewis &amp; Clark, I served as a Resident Director at Reed College where I managed residence halls and served on an on-call crisis management team.&#160; While my career has taken me across the country, I never cease to be inspired by the students I encounter.&#160; I learn so much from each of the students we serve.&#160; The vibrancy and eagerness of the student population (both traditional and non) has made me love working in higher education.</p>
+                            <p>Outside of the work-realm, I am an avid outdoors-woman with a love of biking and kayaking and more recently stand-up paddleboarding with our dog Lola.</p>
+                        </Biography>
+                        <Misc />
+                        <Hours />
+                    </Personnel>
+                </system-data-structure>
+            </content>
+            <path>/dir/kgovaars</path>
+            <dynamic-metadata>
+                <name>Academic Dept</name>
+                <value>No</value>
+            </dynamic-metadata>
+            <link>site://UAS/dir/kgovaars</link>
+            <site>UAS</site>
+            <name>kgovaars</name>
+            <display-name>Kate Govaars</display-name>
+            <title>Kate Govaars</title>
+            <keywords>Profile: Gail Klein</keywords>
+            <description>Profile: Gail Klein</description>
+        </page>
+        <ablock>
+            <path>/</path>
+        </ablock>
+        <file>
+            <path>/</path>
+        </file>
+    </blocks>
+</system-data-structure>
