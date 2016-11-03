@@ -6,7 +6,7 @@
 @Email:  ctosterhout@alaska.edu
 @Project: BERT
 @Last modified by:   ctosterhout
-@Last modified time: 2016-09-13T19:16:48-08:00
+@Last modified time: 2016-09-14T16:11:55-08:00
 @License: Released under MIT License. Copyright 2016 University of Alaska Southeast.  For more details, see https://opensource.org/licenses/MIT
 -->
 
@@ -94,7 +94,7 @@
             <xsl:apply-templates select="ablock[path != '/']"/>
 
             <!-- Dump out a condensed personnel display for each personnel page -->
-            <xsl:apply-templates select="page//Personnel" mode="personnel-condensed"/>
+            <xsl:apply-templates select="page//Personnel | page//dept-address" mode="personnel-condensed"/>
         </div>
     </xsl:template>
 </xsl:stylesheet>

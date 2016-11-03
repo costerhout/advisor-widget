@@ -1,3 +1,36 @@
-.advisor-pane {
+.advisor-btn-filter,
+.advisor-pane,
+#advisor-finder,
+#advisor-reset-controls
+{
     display: none;
+}
+
+#advisor-finder h2 {
+    margin-top: 0;
+}
+
+#advisor-reset-controls .advisor-filter {
+    font-size: 85%;
+}
+
+#advisor-finder-instructions {
+    margin-bottom: 2em;
+}
+
+#advisor-finder .vcard .fn {
+    font-weight: bold;
+}
+
+#advisor-finder .vcard img {
+    max-width: 50%;
+}
+
+#advisor-finder .vcard:not(:first-of-type) {
+    border-top: 1px solid lightgray;
+    padding-top: 1em;
+}
+
+#advisor-result {
+    padding-left: 2em;
 }
