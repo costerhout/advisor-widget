@@ -34,30 +34,34 @@ Begin top HTML boilerplate
     <!-- Define the CSS files to include below this line -->
     <link rel="stylesheet" href="dist/css/main.css" />
     <link rel="stylesheet" href="advisor.css" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 </head>
 
 <body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/2.3.2/js/bootstrap.min.js"></script>
-    <div id="main" role="main">
-        <!--
-****************************************************************************************
-End top HTML boilerplate.  Begin code to be migrated into the CMS page
-****************************************************************************************
--->
-        <div id="content">
-            <h1>Way Freakin Awesome Web Page</h1>
+    <div class="container-fluid">
+        <div id="main" role="main">
+            <!--
+        ****************************************************************************************
+        End top HTML boilerplate.  Begin code to be migrated into the CMS page
+        ****************************************************************************************
+        -->
+            <div id="content">
+                <h1>Way Freakin Awesome Web Page</h1>
+            </div>
+
+            <!--
+        ****************************************************************************************
+        Begin foot HTML boilerplate
+        ****************************************************************************************
+        -->
+        <!-- Bring in the generated content -->
+        <!-- #include virtual="advisor-form.html" -->
+        <!-- #include virtual="advisor-list.html" -->
+        <!-- <iframe src="http://uas.alaska.edu/academic_advising/advisor-widget.html" frameborder="0" style="min-height: 500px; min-width: 100%"></iframe> -->
+
         </div>
-
-        <!--
-****************************************************************************************
-Begin foot HTML boilerplate
-****************************************************************************************
--->
-    <!-- Bring in the generated content -->
-    <!--#include virtual="advisor-form.html" -->
-    <!--#include virtual="advisor-list.html" -->
-
     </div>
 
     <!-- Load required BERT stuff -->
@@ -67,6 +71,15 @@ Begin foot HTML boilerplate
 
     <!-- Load advisor widget code -->
     <script src="advisor.js"></script>
+
+
+    <script>
+    $(function() {
+        setTimeout(function() {
+            window.close();
+        }, 2000);
+    })
+    </script>
 
     <!-- Live reload upon page changes-->
     <script src="//localhost:8006/livereload.js"></script>

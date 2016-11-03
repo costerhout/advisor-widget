@@ -1,7 +1,56 @@
-<select name="degree" id='advisor-degree'></select>
-<select name="program" id='advisor-program'></select>
-<select name="location" id="advisor-location"></select>
-<button id="advisor-reset">Reset form</button>
-<div id="advisor-result">
-
+<h2>Who is my advisor?</h2>
+<div id="advisor-finder">
+    <p id="advisor-finder-instructions">Use this tool to determine your academic advisor based on your degree, program, and location.</p>
+    <div class="row-fluid">
+        <div class="span6">
+            <div class="form-horizontal">
+                <div class="control-group">
+                    <label for="advisor-degree" class="control-label">Degree</label>
+                    <div class="controls">
+                        <select class="advisor-select" name="degree" id='advisor-degree'>
+                            <option>N/A</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="advisor-program" class="control-label">Program</label>
+                    <div class="controls">
+                        <select class="advisor-select" name="program" id='advisor-program'>
+                            <option>N/A</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="advisor-location" class="control-label">Location</label>
+                    <div class="controls">
+                        <select class="advisor-select" name="location" id="advisor-location">
+                            <option>N/A</option>
+                        </select>
+                    </div>
+                </div>
+                <div id="advisor-reset-controls" class="control-group">
+                    <div class="controls">
+                        <p class="advisor-filter">Available options in drop down boxes have been reduced to available combinations based on previous selections. Press "Reset" to clear selections and start over.</p>
+                        <button class="btn" id="advisor-reset">Reset</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="span6">
+            <div id="advisor-result"></div>
+        </div>
+    </div>
 </div>
+<noscript>
+    <p>
+        Your browser does not support Javascript. For assistance in determining your academic advisor, please contact:
+    </p>
+    <dl>
+        <dt>Juneau</dt>
+        <dd><a href="tel:+1-907-796-6000" title="Call the Juneau Student Resource Center">907-796-6000</a></dd>
+        <dt>Ketchikan</dt>
+        <dd><a href="tel:+1-907-228-4511" title="Contact the Ketchikan Advising Office">907-228-4511</a></dd>
+        <dt>Sitka</dt>
+        <dd><a href="tel:+1-907-747-7717" title="Contact the Sitka Student Success Center">907-747-7717</a></dd>
+    </dl>
+</noscript>
